@@ -1,2 +1,0 @@
-library 'my-share-library@master'
-buildmaven name: 'game-of'
